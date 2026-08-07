@@ -9,10 +9,10 @@ install whichever ones you want.
 
 | plugin | |
 |---|---|
-| [claude-reminders](https://github.com/zirkelc/claude-reminders) | Reminders that survive the session that created them. One markdown file each, carrying what to do, how, and a log of past checks, surfaced at session start in the project it belongs to. |
+| [agent-reminders](https://github.com/zirkelc/agent-reminders) | Reminders that survive the session that created them. One markdown file each, carrying what to do, how, and a log of past checks, surfaced at session start in the project it belongs to. |
 
 ```
-/plugin install claude-reminders@claude-plugins
+/plugin install agent-reminders@claude-plugins
 ```
 
 The operands read `<plugin>@<marketplace>`, so the marketplace name comes second.
