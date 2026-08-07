@@ -1,0 +1,29 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "Chris Cook",
+    "url": "https://github.com/zirkelc"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Chris Cook",
+    "homepage": "https://github.com/zirkelc/claude-plugins"
+  },
+  "plugins": [
+    {
+      "name": "claude-reminders",
+      "source": {
+        "source": "github",
+        "repo": "zirkelc/claude-reminders"
+      },
+      "description": "Reminders that survive the session that created them. One markdown file per reminder, carrying what to do, how, and a log of past checks, surfaced at session start in the project it belongs to.",
+      "author": {
+        "name": "Chris Cook",
+        "url": "https://github.com/zirkelc"
+      },
+      "homepage": "https://github.com/zirkelc/claude-reminders",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["reminders", "tasks", "follow-up", "recheck", "memory", "productivity"]
+    }
+  ]
+}
