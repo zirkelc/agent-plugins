@@ -15,7 +15,7 @@
         "source": "github",
         "repo": "zirkelc/agent-reminders"
       },
-      "description": "Reminders that survive the session that created them. One markdown file per reminder, carrying what to do, how, and a log of past checks, surfaced at session start in the project it belongs to.",
+      "description": "Reminders that survive the session that created them. One markdown file each, carrying its own context, surfaced at session start in the project it belongs to.",
       "author": {
         "name": "Chris Cook",
         "url": "https://github.com/zirkelc"
