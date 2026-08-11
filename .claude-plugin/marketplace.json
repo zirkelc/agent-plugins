@@ -12,8 +12,8 @@
     {
       "name": "agent-journal",
       "source": {
-        "source": "github",
-        "repo": "zirkelc/agent-journal"
+        "source": "url",
+        "url": "https://github.com/zirkelc/agent-journal.git"
       },
       "description": "A journal written by your agent, autonomously. One small markdown file per milestone, written as the work happens, in a format built to be scanned with grep and ls.",
       "author": {
@@ -23,13 +23,20 @@
       "homepage": "https://github.com/zirkelc/agent-journal",
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["journal", "diary", "memory", "context", "recall", "sessions"]
+      "keywords": [
+        "journal",
+        "diary",
+        "memory",
+        "context",
+        "recall",
+        "sessions"
+      ]
     },
     {
       "name": "agent-reminders",
       "source": {
-        "source": "github",
-        "repo": "zirkelc/agent-reminders"
+        "source": "url",
+        "url": "https://github.com/zirkelc/agent-reminders.git"
       },
       "description": "Reminders that survive the session that created them. One markdown file each, carrying its own context, surfaced at session start in the project it belongs to.",
       "author": {
@@ -39,7 +46,14 @@
       "homepage": "https://github.com/zirkelc/agent-reminders",
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["reminders", "tasks", "follow-up", "recheck", "memory", "productivity"]
+      "keywords": [
+        "reminders",
+        "tasks",
+        "follow-up",
+        "recheck",
+        "memory",
+        "productivity"
+      ]
     }
   ]
 }
