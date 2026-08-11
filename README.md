@@ -13,8 +13,8 @@ install whichever ones you want.
 | [agent-reminders](https://github.com/zirkelc/agent-reminders) | Reminders that survive the session that created them. One markdown file each, carrying its own context, surfaced at session start in the project it belongs to. |
 
 ```
-/plugin install agent-journal@claude-plugins
-/plugin install agent-reminders@claude-plugins
+/plugin install agent-journal@zirkelc
+/plugin install agent-reminders@zirkelc
 ```
 
 The operands read `<plugin>@<marketplace>`, so the marketplace name comes second.
