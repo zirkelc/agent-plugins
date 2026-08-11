@@ -10,6 +10,22 @@
   },
   "plugins": [
     {
+      "name": "agent-journal",
+      "source": {
+        "source": "github",
+        "repo": "zirkelc/agent-journal"
+      },
+      "description": "A journal written by your agent, autonomously. One small markdown file per milestone, written as the work happens, in a format built to be scanned with grep and ls.",
+      "author": {
+        "name": "Chris Cook",
+        "url": "https://github.com/zirkelc"
+      },
+      "homepage": "https://github.com/zirkelc/agent-journal",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["journal", "diary", "memory", "context", "recall", "sessions"]
+    },
+    {
       "name": "agent-reminders",
       "source": {
         "source": "github",

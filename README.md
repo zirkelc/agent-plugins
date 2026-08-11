@@ -9,9 +9,11 @@ install whichever ones you want.
 
 | plugin | |
 |---|---|
+| [agent-journal](https://github.com/zirkelc/agent-journal) | A journal written by your agent, autonomously. One small markdown file per milestone, written as the work happens, in a format built to be scanned with grep and ls. |
 | [agent-reminders](https://github.com/zirkelc/agent-reminders) | Reminders that survive the session that created them. One markdown file each, carrying its own context, surfaced at session start in the project it belongs to. |
 
 ```
+/plugin install agent-journal@claude-plugins
 /plugin install agent-reminders@claude-plugins
 ```
 
