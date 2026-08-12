@@ -4,7 +4,7 @@ Claude Code plugins by [Chris Cook](https://github.com/zirkelc). Add the marketp
 install whichever ones you want.
 
 ```
-/plugin marketplace add zirkelc/claude-plugins
+/plugin marketplace add zirkelc/agent-plugins
 ```
 
 | plugin | |

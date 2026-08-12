@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by Chris Cook",
-    "homepage": "https://github.com/zirkelc/claude-plugins"
+    "homepage": "https://github.com/zirkelc/agent-plugins"
   },
   "plugins": [
     {
