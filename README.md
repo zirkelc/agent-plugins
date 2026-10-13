@@ -11,10 +11,12 @@ install whichever ones you want.
 |---|---|
 | [agent-journal](https://github.com/zirkelc/agent-journal) | A journal written by your agent, autonomously. One small markdown file per milestone, written as the work happens, in a format built to be scanned with grep and ls. |
 | [agent-history](https://github.com/zirkelc/agent-history) | Exports every Claude Code session and its subagents to a folder as JSONL and Markdown, and commits and pushes it when the folder is a git repository. |
+| [quick-actions](https://github.com/zirkelc/claude-quick-actions) | A band above the prompt with buttons that run saved prompts, skills and shell commands. |
 
 ```
 /plugin install agent-journal@zirkelc
 /plugin install agent-history@zirkelc
+/plugin install quick-actions@zirkelc
 ```
 
 The operands read `<plugin>@<marketplace>`, so the marketplace name comes second.
