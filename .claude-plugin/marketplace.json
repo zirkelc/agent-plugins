@@ -33,29 +33,6 @@
       ]
     },
     {
-      "name": "agent-reminders",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/zirkelc/agent-reminders.git"
-      },
-      "description": "Reminders that survive the session that created them. One markdown file each, carrying its own context, surfaced at session start in the project it belongs to.",
-      "author": {
-        "name": "Chris Cook",
-        "url": "https://github.com/zirkelc"
-      },
-      "homepage": "https://github.com/zirkelc/agent-reminders",
-      "license": "MIT",
-      "category": "productivity",
-      "keywords": [
-        "reminders",
-        "tasks",
-        "follow-up",
-        "recheck",
-        "memory",
-        "productivity"
-      ]
-    },
-    {
       "name": "agent-history",
       "source": {
         "source": "url",
