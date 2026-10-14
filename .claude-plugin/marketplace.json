@@ -77,6 +77,30 @@
         "skills",
         "shortcuts"
       ]
+    },
+    {
+      "name": "git",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/zirkelc/claude-git.git",
+        "path": "source-control"
+      },
+      "description": "Git status above the prompt and a source control panel: changes, commit, history graph, branches and worktrees, one-click sync, and how far the branch is behind its base with a merge preview. A fork of manuel-will/cc-source-control.",
+      "author": {
+        "name": "Chris Cook",
+        "url": "https://github.com/zirkelc"
+      },
+      "homepage": "https://github.com/zirkelc/claude-git",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "mod",
+        "band",
+        "git",
+        "source-control",
+        "branches",
+        "merge"
+      ]
     }
   ]
 }
