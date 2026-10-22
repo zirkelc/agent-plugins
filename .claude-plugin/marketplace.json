@@ -12,8 +12,9 @@
     {
       "name": "agent-journal",
       "source": {
-        "source": "url",
-        "url": "https://github.com/zirkelc/agent-journal.git"
+        "source": "git-subdir",
+        "url": "https://github.com/zirkelc/agent-journal.git",
+        "path": "claude-code"
       },
       "description": "A journal written by your agent, autonomously. One small markdown file per milestone, written as the work happens, in a format built to be scanned with grep and ls.",
       "author": {
