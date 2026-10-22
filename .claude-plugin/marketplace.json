@@ -36,8 +36,9 @@
     {
       "name": "agent-history",
       "source": {
-        "source": "url",
-        "url": "https://github.com/zirkelc/agent-history.git"
+        "source": "git-subdir",
+        "url": "https://github.com/zirkelc/agent-history.git",
+        "path": "claude-code"
       },
       "description": "Exports every Claude Code session and its subagents to a folder as JSONL and Markdown, and commits and pushes it when the folder is a git repository.",
       "author": {
